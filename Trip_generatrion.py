@@ -24,7 +24,7 @@ print(os.getcwd())
 
 
 graph = Graph(
-    "http://127.0.0.1:7474", username="neo4j", password="Its312"
+    "http://127.0.0.1:7474", username="neo4j", password="xxxxxx"
 ) 
 
 def riqi_ftime(df):
